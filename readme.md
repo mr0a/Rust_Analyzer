@@ -1,4 +1,6 @@
 # Rust Analyzer
+### Install requirements
+- `pip install -r requirements.txt`
 ### Steps to run the app
 - `python manage.py makemigrations`
 - `python manage.py migrate`
